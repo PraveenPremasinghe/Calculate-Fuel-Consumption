@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fuel app</string>
+    <string name="enter_distance">Enter Distance</string>
+    <string name="fuel_consumption">Fuel Consumption</string>
+    <string name="enter_l_price">Enter L price</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+</resources>
